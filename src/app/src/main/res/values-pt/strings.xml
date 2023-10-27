@@ -6,7 +6,7 @@
     <string name="title_skull">Skill</string>
     <string name="base_level">Nível</string>
     <string name="stat_level">Skill (Com buffs)</string>
-    <string name="weapon_atk">Arma ataque</string>
+    <string name="weapon_atk">Dano da arma</string>
     <string name="stat_goal">Objetivo de skill </string>
     <string name="hours">Horas</string>
     <string name="tick">Tick (Padrão é 4)</string>
